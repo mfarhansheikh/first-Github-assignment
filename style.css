@@ -1,0 +1,17 @@
+table , th , td {
+    border: 1px solid black;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: red; color: white;
+}
+.B{
+    border: none;
+}
+.Break{
+    border: none;
+}
+#heading-1{
+    background-color: cornflowerblue; color: white;
+}
